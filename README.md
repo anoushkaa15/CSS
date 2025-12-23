@@ -81,6 +81,11 @@ Instead of a fixed 0.5 threshold:
 
 ---
 
+## 🔍 Experimental Visualizations
+
+All experimental results, training analyses, and model inference visualizations (including ROC–AUC curves, PR–AUC plots, label-wise performance, and qualitative inference examples) are provided in the project presentation, which is also uploaded to this GitHub repository.
+
+---
 ## 📚 Dataset
 
 This project uses the **DepressionEmo** dataset:
