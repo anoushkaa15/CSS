@@ -27,9 +27,9 @@ The model predicts the following **8 depression-related emotions**:
 2. Worthlessness
 3. Loneliness
 4. Sadness
-5. Guilt
+5. Anger
 6. Suicide Intent
-7. Anxiety / Cognitive Dysfunction
+7. Cognitive Dysfunction
 8. Emptiness
 
 Each input text can be assigned **multiple labels simultaneously**.
