@@ -1,8 +1,3 @@
-Below is a **clean, professional README.md** you can directly use for your GitHub repository.
-It is written to match **academic ML repos**, aligns closely with your paper, and clearly presents *your contribution*.
-
----
-
 # Improving Depression Emotion Classification Using RoBERTa
 
 This repository contains the implementation for **multilabel depression emotion classification** using a **RoBERTa-based transformer model**, as presented in our paper *“Improving Depression Emotion Classification Using RoBERTa”*.
